@@ -15,7 +15,7 @@ The scores have been aggregated from 10 different tasters.
 The taste categories describe whether the whiskies are sweet, smoky,
 medicinal, spicy, and so on.
 
-Spectral co-clustering is applied to reorder the correlation matrix so that the blocks representation of groups whiskies are more clear. Also, it used Bokeh, an interactive visualization library that provides elegant, concise construction of graphics, and affords high-performance interactivity over datasets.
+Spectral co-clustering is applied to reorder the correlation matrix so that the blocks representation of groups whiskies are more clear. Also, we make use of Bokeh, an interactive visualization library that provides elegant construction of graphic plots to visualize some aspects.
 
 
 ![img](corr_whisky.png)
