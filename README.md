@@ -20,6 +20,8 @@ Spectral co-clustering is applied to reorder the correlation matrix sp that the 
 
 ![img](corr_whisky.png)
 
+![img](bokh_wcorr.png)
+
 <p align="center">
   <img src="https://github.com/MKSK22/CS-Scotch_Whiskey_Classification/blob/main/bokeh.png?raw=true"/>
 </p>
